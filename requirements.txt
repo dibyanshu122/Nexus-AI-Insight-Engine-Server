@@ -1,12 +1,14 @@
 fastapi
 uvicorn
 langchain
+langchain-community
+langchain-core
 langgraph
 langchain-openai
+langchain-groq
 pinecone-client
 supabase
 pydantic-settings
 python-dotenv
 tavily-python
 openai
-langchain-groq
