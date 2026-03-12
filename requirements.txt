@@ -5,7 +5,6 @@ langgraph
 langchain-openai
 pinecone-client
 supabase
-torch
 pydantic-settings
 python-dotenv
 tavily-python
