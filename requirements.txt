@@ -6,7 +6,7 @@ langchain-core
 langgraph
 langchain-openai
 langchain-groq
-pinecone-client
+pinecone
 supabase
 pydantic-settings
 python-dotenv
